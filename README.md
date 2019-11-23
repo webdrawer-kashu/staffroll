@@ -41,10 +41,10 @@ $('#staffRoll').staffRoll({
 - type 5
 <a href="http://webdrawer.net/sample/js/staffroll/index5.html" target="_blank">横レイアウト＋フェード</a>
 
-type 6
+- type 6
 <a href="http://webdrawer.net/sample/js/staffroll/index6.html" target="_blank">横レイアウト＋横スクロール</a>
 
-type 7（おまけ）
+- type 7（おまけ）
 <a href="http://webdrawer.net/sample/js/staffroll/index7.html" target="_blank">名前が縦に並んでいるバージョンを奥に流れていくスターウォーズっぽいバージョン</a>
 
 
